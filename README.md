@@ -152,15 +152,15 @@ nmap -A <target-ip>
 
 ### Wazuh Dashboard
 
-![Wazuh Dashboard](screenshots/wazuh1.png)
+![Wazuh Dashboard](screenshots/wazuh1.jpg)
 
  
 
-![Active Agents](screenshots/wazuh2.png)
+![Active Agents](screenshots/wazuh2.jpg)
 
  
 
-![PowerShell Alert](screenshots/wazuh3.png)
+![PowerShell Alert](screenshots/wazuh3.jpg)
 
  
 
