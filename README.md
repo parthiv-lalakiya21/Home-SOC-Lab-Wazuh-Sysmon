@@ -116,11 +116,7 @@ arp -a
 powershell -enc ZQBjAGgAbwAgAHQAZQBzAHQA
 ```
 
-### Network Reconnaissance
-
-```bash
-nmap -A <target-ip>
-```
+ 
 
 ---
 
