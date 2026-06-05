@@ -151,16 +151,18 @@ nmap -A <target-ip>
 ## Screenshots
 
 ### Wazuh Dashboard
-Add Screenshot Here
 
-### Sysmon Event Logs
-Add Screenshot Here
+![Wazuh Dashboard](screenshots/wazuh1.png)
 
-### Security Alerts
-Add Screenshot Here
+ 
 
-### Agent Management
-Add Screenshot Here
+![Active Agents](screenshots/wazuh2.png)
+
+ 
+
+![PowerShell Alert](screenshots/wazuh3.png)
+
+ 
 
 ---
 
